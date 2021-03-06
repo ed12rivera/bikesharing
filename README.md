@@ -42,4 +42,5 @@ However, we did see that bikes are used on weekend afternoons for leisure.  This
 Another visualization that we could create for the analysis would look at the number of subscribers by age group in New York, particularly subscribers who use bikes on weekends.  This will inform us of who uses the bikes the most, particularly leisurely, and will tell us which groups to focus on when trying to get the program going in Des Moines.  
 
 We could also create a visualization that looks at how long bikes were checked out, but split it up by weekdays versus weekends.  This will give us a clearer picture of bike usage on weekends where we want to focus for Des Moines.  
+
 [Link to Tableau](https://public.tableau.com/profile/edward5570#!/vizhome/NYCCitibikeStory_16149833378720/NYCCitibikeStory?publish=yes)
