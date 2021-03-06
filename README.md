@@ -6,16 +6,28 @@ We will analyze different metrics on users of Citibikes in New York City to asse
 After enjoying Citibikes in New York we have the idea of bringing the program to Des Moines, Iowa.  However, Des Moines and New York are very different markets and success in New York does not necessarily mean the program will be successful in another city.  We will perform an analysis on different metrics of the user base for the program in New York and use it to determine if it looks like Des Moines could be a successful location for another Citibikes program.
 
 ## Results
+<img src="Tableau_Visualizations/checkout_times.PNG" width="400" height="240"/>
+
 The first result we see is that the vast majority of bike checkouts last between zero and about 20 minutes.  Checkouts very rarely last longer than one hour.  
- 
+
+<img src="Tableau_Visualizations/checkout_times_gender.PNG" width="400" height="240"/>
+
 We then look at the checkout times by gender.  We can see that both males and females checkout bikes for about the same amount of time, but the userbase consists of many more males than females.
  
+<img src="Tableau_Visualizations/trips_weekday.PNG" width="300" height="300"/>
+
 Next, we looked at when bikes were checked out.  We created a heatmap showing the amount of bike checkouts per hour per day of the week.  It’s immediately noticeable that the most common use of the bikes is for work commutes.  Bikes are used most frequently on weekdays between the hours of  6 am to 9 am and between 5 pm to 7 pm when most people are going to and from work.  Bikes are also on weekends during early to late afternoon, suggesting there is also high demand for the bikes for leisure.  This could be locals enjoying the weekend or tourists visiting for the weekend. 
  
+<img src="Tableau_Visualizations/trips_gender.PNG" width="480" height="240"/>
+
 When looking at when bikes are used by gender we see similar results as to when we looked at checkout times by gender.  Both males and females follow similar patterns of usage, but there are far more males using the bikes.
  
+<img src="Tableau_Visualizations/trips_usertype.PNG" width="300" height="280"/>
+
 Next, we looked at similar data of when bikes are used but separated our visual by whether the user is a subscriber or one-time-customer.  We can immediately see that the majority of bike checkouts were done by subscribers, and the most common bike users are male subscribers.  This heatmap tells us that getting customers to subscribe to the service appears critical for the success of the program.
  
+<img src="Tableau_Visualizations/starting_locations.PNG" width="450" height="270"/>   <img src="Tableau_Visualizations/ending_locations.PNG" width="450" height="270"/>
+
 Finally, we looked at the locations of where bikes are being checked out at and where they are being returned.  The map tells us that the bikes are used the most in downtown and midtown Manhattan.  These are areas of high foot-traffic, high tourism, and congested streets.  Outside of Manhattan the bikes are used much less.
  
 ## Summary
